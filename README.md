@@ -5,6 +5,7 @@ Introduction :
 
 Building The Application :
 	To build this App we want to install some technology softwares includes,
+	
   	1)First install all the dependencies of the application, Installation of node
       		a.Goto https://nodejs.org  Download node installer  Once ready it will install nodejs runtime & npm.
 
@@ -18,6 +19,7 @@ Building The Application :
       		a.npm install –g gulp
 
 Running The Application :
+
   	1)Goto Client directory from one cmd and run “gulp” from there.
 
   	2)Goto Server directory from another cmd and run “npm start” from there.
